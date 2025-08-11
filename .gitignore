@@ -1,0 +1,9 @@
+/image_denosing/denoising_engine.py
+# 忽略虚拟环境
+venv/
+# 忽略数据集
+dataset/
+# 忽略编译产物
+dist/
+# 忽略 IDE 配置（如 PyCharm 的 .idea/）
+.idea/
